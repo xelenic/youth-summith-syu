@@ -1,0 +1,39 @@
+@import 'tailwindcss';
+
+@source '../../vendor/laravel/framework/src/Illuminate/Pagination/resources/views/*.blade.php';
+@source '../../storage/framework/views/*.php';
+
+@theme {
+    --font-sans: 'Inter', 'Noto Sans Sinhala', ui-sans-serif, system-ui, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji',
+        'Segoe UI Symbol', 'Noto Color Emoji';
+
+    --color-summit-red: #d3111c;
+    --color-summit-red-dark: #a80c16;
+    --color-summit-maroon: #3e0b10;
+    --color-summit-blue: #2b3990;
+    --color-summit-paper: #edf4fa;
+    --color-whatsapp: #25d366;
+}
+
+@layer components {
+    /* Text inputs on the public registration form. */
+    .summit-input {
+        @apply block h-14 w-full rounded-xl border border-slate-300 bg-white px-4 text-[1.0625rem] text-slate-900 shadow-sm shadow-slate-900/5 transition placeholder:text-slate-400 focus:border-summit-red focus:ring-4 focus:ring-summit-red/15 focus:outline-none;
+    }
+
+    .summit-input[aria-invalid='true'] {
+        @apply border-red-500 bg-red-50/60 focus:border-red-600 focus:ring-red-600/15;
+    }
+
+    /* We draw our own chevron for the GN Division suggestions. */
+    .summit-input::-webkit-calendar-picker-indicator {
+        display: none !important;
+    }
+
+    /* Halftone dot patches, echoing the poster artwork. */
+    .summit-halftone {
+        background-image: radial-gradient(circle, rgb(71 85 105 / 0.35) 1px, transparent 1.6px);
+        background-size: 8px 8px;
+        mask-image: radial-gradient(closest-side, #000 20%, transparent);
+    }
+}
