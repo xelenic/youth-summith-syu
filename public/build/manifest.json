@@ -1,0 +1,93 @@
+{
+  "_fonts-UlRK_wFP.css": {
+    "file": "assets/fonts-UlRK_wFP.css",
+    "src": "_fonts-UlRK_wFP.css"
+  },
+  "_inter-400-normal-C38fXH4l.woff2": {
+    "file": "assets/inter-400-normal-C38fXH4l.woff2",
+    "src": "_inter-400-normal-C38fXH4l.woff2"
+  },
+  "_inter-400-normal-CyCys3Eg.woff": {
+    "file": "assets/inter-400-normal-CyCys3Eg.woff",
+    "src": "_inter-400-normal-CyCys3Eg.woff"
+  },
+  "_inter-500-normal-BL9OpVg8.woff": {
+    "file": "assets/inter-500-normal-BL9OpVg8.woff",
+    "src": "_inter-500-normal-BL9OpVg8.woff"
+  },
+  "_inter-500-normal-Cerq10X2.woff2": {
+    "file": "assets/inter-500-normal-Cerq10X2.woff2",
+    "src": "_inter-500-normal-Cerq10X2.woff2"
+  },
+  "_inter-600-normal-CiBQ2DWP.woff": {
+    "file": "assets/inter-600-normal-CiBQ2DWP.woff",
+    "src": "_inter-600-normal-CiBQ2DWP.woff"
+  },
+  "_inter-600-normal-LgqL8muc.woff2": {
+    "file": "assets/inter-600-normal-LgqL8muc.woff2",
+    "src": "_inter-600-normal-LgqL8muc.woff2"
+  },
+  "_inter-700-normal-BLAVimhd.woff": {
+    "file": "assets/inter-700-normal-BLAVimhd.woff",
+    "src": "_inter-700-normal-BLAVimhd.woff"
+  },
+  "_inter-700-normal-Yt3aPRUw.woff2": {
+    "file": "assets/inter-700-normal-Yt3aPRUw.woff2",
+    "src": "_inter-700-normal-Yt3aPRUw.woff2"
+  },
+  "_inter-800-normal-BYj_oED-.woff2": {
+    "file": "assets/inter-800-normal-BYj_oED-.woff2",
+    "src": "_inter-800-normal-BYj_oED-.woff2"
+  },
+  "_inter-800-normal-D1mf63XC.woff": {
+    "file": "assets/inter-800-normal-D1mf63XC.woff",
+    "src": "_inter-800-normal-D1mf63XC.woff"
+  },
+  "_inter-900-normal-D4nM5aha.woff2": {
+    "file": "assets/inter-900-normal-D4nM5aha.woff2",
+    "src": "_inter-900-normal-D4nM5aha.woff2"
+  },
+  "_inter-900-normal-EUCDUbiG.woff": {
+    "file": "assets/inter-900-normal-EUCDUbiG.woff",
+    "src": "_inter-900-normal-EUCDUbiG.woff"
+  },
+  "_noto-sans-sinhala-400-normal-CewS1QCZ.woff2": {
+    "file": "assets/noto-sans-sinhala-400-normal-CewS1QCZ.woff2",
+    "src": "_noto-sans-sinhala-400-normal-CewS1QCZ.woff2"
+  },
+  "_noto-sans-sinhala-400-normal-CqMwo2i3.woff": {
+    "file": "assets/noto-sans-sinhala-400-normal-CqMwo2i3.woff",
+    "src": "_noto-sans-sinhala-400-normal-CqMwo2i3.woff"
+  },
+  "_noto-sans-sinhala-600-normal-BdFTtdOd.woff": {
+    "file": "assets/noto-sans-sinhala-600-normal-BdFTtdOd.woff",
+    "src": "_noto-sans-sinhala-600-normal-BdFTtdOd.woff"
+  },
+  "_noto-sans-sinhala-600-normal-D6FNRLlM.woff2": {
+    "file": "assets/noto-sans-sinhala-600-normal-D6FNRLlM.woff2",
+    "src": "_noto-sans-sinhala-600-normal-D6FNRLlM.woff2"
+  },
+  "_noto-sans-sinhala-700-normal-B07LXaDZ.woff": {
+    "file": "assets/noto-sans-sinhala-700-normal-B07LXaDZ.woff",
+    "src": "_noto-sans-sinhala-700-normal-B07LXaDZ.woff"
+  },
+  "_noto-sans-sinhala-700-normal-Ccpti-OH.woff2": {
+    "file": "assets/noto-sans-sinhala-700-normal-Ccpti-OH.woff2",
+    "src": "_noto-sans-sinhala-700-normal-Ccpti-OH.woff2"
+  },
+  "resources/css/app.css": {
+    "file": "assets/app-Bfe9U7cx.css",
+    "name": "app",
+    "names": [
+      "app.css"
+    ],
+    "src": "resources/css/app.css",
+    "isEntry": true
+  },
+  "resources/js/app.js": {
+    "file": "assets/app-ZvXMsByb.js",
+    "name": "app",
+    "src": "resources/js/app.js",
+    "isEntry": true
+  }
+}
